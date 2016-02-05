@@ -14,13 +14,13 @@ Please remember that these are guidelines only. Specific user activity may be go
 
 ##Product Designs
 
-![Screen](https://github.com/tron1991/Design-News-iOS-App/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 1.jpg)
+![Screen](https://github.com/tron1991/Design-News-iOS-App/app-code/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 1.jpg)
 
-![Screen](https://github.com/tron1991/Design-News-iOS-App/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 2.jpg)
+![Screen](https://github.com/tron1991/Design-News-iOS-App/app-code/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 2.jpg)
 
-![Screen](https://github.com/tron1991/Design-News-iOS-App/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 3.jpg)
+![Screen](https://github.com/tron1991/Design-News-iOS-App/app-code/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 3.jpg)
 
-![Screen](https://github.com/tron1991/Design-News-iOS-App/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 4.jpg)
+![Screen](https://github.com/tron1991/Design-News-iOS-App/app-code/designnewsapp_screens/3.5-inch (iPhone 4) - Screenshot 4.jpg)
 
 ##Designer News
 
